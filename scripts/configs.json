@@ -1,0 +1,23 @@
+{
+    "DISCORD": {
+        "news_id": "",
+        "new_vid_id": ""
+    },
+    "COLORS": {
+        "deep_sea": "0x11806A",
+        "deep_lilac": "0x9B59B6",
+        "green_smoke": "0x9BB659",
+        "deep_teal": "0x0B3E37"
+    },
+    "FFmpegPCMAudio": {
+        "path-ffmpeg": "C:\\Users\\Jakub\\Downloads\\Nowy folder (4)\\ffmpeg-2021-09-20-git-59719a905c-essentials_build\\bin\\ffmpeg.exe",
+        "server-path-ffmpeg": "/app/vendor/ffmpeg/ffmpeg",
+        "options": "{'before_options': '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5','options': '-vn'}"
+    },
+    "PCMVolumeTransformer": {
+        "vol": "1.0"
+    },
+    "youtube_dl": {
+        "options": "{'format': 'bestaudio/best','restrictfilenames': True,'noplaylist': True,'nocheckcertificate': True,'ignoreerrors': False,'logtostderr': False,'quiet': True,'no_warnings': True,'default_search': 'auto','source_address': '0.0.0.0'}"
+    }
+}
